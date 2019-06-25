@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Ian Harmon
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "Scholarly Communications Librarian at West Virginia University."
   email: ian.harmon@mail.wvu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: harmoniant
@@ -42,7 +42,7 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#002855'
+highlight-color: #002855
 lowlight-color: '#EAAA00'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
